@@ -14,5 +14,12 @@ GPIO use Number 17
 Notice the 3 pins for the transistor from left to right are E, B, C. Make sure the E is connected to the positive end (anode), B to the GPIO through a 1kΩ resistor, C to the GND of the Raspberry Pi.
 
 
+create folder "Scripts" in /home/pi and copy the fan.py
+
+python fan.py. for try 
+
+:) enjoy 
+
+
 
 ===== For personnal Use ===== I cannot be responsible for your assembly on your raspberry.
