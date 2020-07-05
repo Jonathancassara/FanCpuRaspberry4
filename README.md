@@ -4,8 +4,8 @@ Script python 3 Fan CPU Rapsberry 4
 
 Need:
 
-1kΩ(ohm) resistor 
-Transistor Npn 2N2222
+1kΩ(ohm) resistor -
+Transistor Npn 2N2222 -
 Fan 5V 
 
 GPIO use Number 17 
